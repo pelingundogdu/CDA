@@ -1,0 +1,6 @@
+Linear Regression
+
+Instructions
+Complete the jupyter notebook for Linear Regression with Python-BTS
+For the evaluation of the linear regression model, compute and report the following measures: MAE, MSE, RMSE, R Squared (R²) and Adjusted R Squared
+Use statsmodels package to compute the p values of linear regression coefficients 
