@@ -1,0 +1,15 @@
+Logistic Regression
+
+Instructions
+Use Titanic data and the Jupyter notebook for Logistic Regression (find both in attachment) to improve the performance of the logistic regression model and implement your approach  in Python. You can consider different approaches such as :
+ 
+You might want to explore other feature engineering, some suggestions for feature engineering:
+     Is there any info you can get from the ticket?
+     Maybe the Cabin letter could be a feature
+     Try grabbing the Title (Dr.,Mr.,Mrs,etc..) from the name as a feature
+ 
+Try different learning parameters when training the logistic regression model such as class_weight
+ 
+ 
+Use over-sampling, under-sampling or SMOTE to balance the training data
+ 
